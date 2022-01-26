@@ -1,0 +1,22 @@
+CRITTOGRAFIA
+
+-introduzione
+-crittografia simmetrica
+-crittografia asimmetrica
+-programma
+
+
+OOP
+
+-cosa è
+-a cosa serve
+-programma
+-spiegazione
+
+
+GANT
+
+-creazione di diagramm
+-operazione sui dati
+-slack
+-percorso critico
